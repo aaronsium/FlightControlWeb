@@ -1,4 +1,4 @@
-# FlightControlWeb
+# FlightControl-Web
 
 
 This project illustrates Flight control system as a web app platform. user can add flights-plan (json format with conventional protocol) which includ: numbers of passengers, company_name, initial_location and date_time,  to the system.
